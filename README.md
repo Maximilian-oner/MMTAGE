@@ -55,3 +55,23 @@ python train_model.py --extract_feat True --load_model "./checkpoints/checkpoint
 ```
 
 Corresponding embeddings are saved in multimodal_emb_cls.h5ad and multimodal_emb_mean.h5ad
+
+
+## Copyright and License
+
+### Copyright
+- Files derived from [LAVIS](https://github.com/salesforce/LAVIS): 
+  Original copyright © 2022 salesforce.com, inc.; Modified portions (if any) © 2026 Bioinformatics Institute.
+- Files derived from [flava](https://github.com/facebookresearch/multimodal): 
+  Original copyright © Meta Platforms, Inc. and affiliates.; Modified portions (if any) © 2026 Bioinformatics Institute.
+- Files derived from [scFoundation](https://github.com/biomap-research/scFoundation): 
+  Original copyright © biomap-research; Modified portions (if any) © 2026 Bioinformatics Institute.
+- Original mmTAGE code: © 2026 Bioinformatics Institute.
+
+### License
+- LAVIS-derived files: BSD-3-Clause License (consistent with original)
+- flava-derived files: BSD-3-Clause License (consistent with original)
+- scFoundation-derived files: Apache License 2.0 (consistent with original)
+- Original mmTAGE code: BSD-3-Clause License
+
+The full text of the BSD-3-Clause License is available in the [LICENSE](LICENSE) file in the root directory. The Apache License 2.0 text for scFoundation-derived files can be found at [Apache 2.0 Official](https://www.apache.org/licenses/LICENSE-2.0).
