@@ -69,9 +69,9 @@ Corresponding embeddings are saved in multimodal_emb_cls.h5ad and multimodal_emb
 - Original MMTAGE code: © 2026 Bioinformatics Institute.
 
 ### License
-- LAVIS-derived files: BSD-3-Clause License (consistent with original)
-- flava-derived files: BSD-3-Clause License (consistent with original)
-- scFoundation-derived files: Apache License 2.0 (consistent with original)
-- Original MMTAGE code: BSD-3-Clause License
+- LAVIS-derived files: BSD-3-Clause License (consistent with original LAVIS license)
+- flava-derived files: BSD-3-Clause License (consistent with original flava license)
+- scFoundation-derived files: Apache License 2.0 (consistent with original scFoundation license)
+- Original MMTAGE code: BSD-3-Clause License (documented in the root LICENSE file)
 
 The full text of the BSD-3-Clause License is available in the [LICENSE](LICENSE) file in the root directory. The Apache License 2.0 text for scFoundation-derived files can be found at [Apache 2.0 Official](https://www.apache.org/licenses/LICENSE-2.0).
